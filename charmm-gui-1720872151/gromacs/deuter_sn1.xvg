@@ -1,0 +1,29 @@
+# This file was created Wed May 26 23:43:57 2021
+# Created by:
+#                      :-) GROMACS - gmx order, 2020.4 (-:
+# 
+# Executable:   /opt/gromacs/bin/gmx
+# Data prefix:  /opt/gromacs
+# Working dir:  /home/gromacs/Documents/charmm-gui/charmm-gui-1720872151 (copia)/gromacs
+# Command line:
+#   gmx order -s step7_1.tpr -f step7_1.trr -n sn1.ndx -d z -od deuter_sn1.xvg
+# gmx order is part of G R O M A C S:
+#
+# Gravel Rubs Often Many Awfully Cauterized Sores
+#
+@    title "Deuterium order parameters"
+@    xaxis  label "Atom"
+@    yaxis  label "Scd"
+@TYPE xy
+           1       0.125201
+           2       0.215286
+           3       0.224266
+           4       0.234315
+           5       0.228947
+           6       0.231285
+           7       0.218655
+           8       0.209755
+           9       0.195265
+          10       0.183686
+          11       0.158909
+          12        0.12933

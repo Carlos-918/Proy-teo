@@ -1,0 +1,29 @@
+# This file was created Wed May 26 23:47:18 2021
+# Created by:
+#                      :-) GROMACS - gmx order, 2020.4 (-:
+# 
+# Executable:   /opt/gromacs/bin/gmx
+# Data prefix:  /opt/gromacs
+# Working dir:  /home/gromacs/Documents/charmm-gui/charmm-gui-1720872151 (copia)/gromacs
+# Command line:
+#   gmx order -s step7_1.tpr -f step7_1.trr -n TMCL2-snA.ndx -d z -od TMCL2_snA.xvg
+# gmx order is part of G R O M A C S:
+#
+# Good ROcking Metal Altar for Chronical Sinners
+#
+@    title "Deuterium order parameters"
+@    xaxis  label "Atom"
+@    yaxis  label "Scd"
+@TYPE xy
+           1       0.136064
+           2       0.233712
+           3        0.23214
+           4       0.232746
+           5       0.229403
+           6       0.230858
+           7       0.219138
+           8       0.216967
+           9       0.197652
+          10       0.178291
+          11       0.150964
+          12       0.125875

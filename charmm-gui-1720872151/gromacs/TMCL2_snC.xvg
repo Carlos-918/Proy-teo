@@ -1,0 +1,29 @@
+# This file was created Wed May 26 23:47:21 2021
+# Created by:
+#                      :-) GROMACS - gmx order, 2020.4 (-:
+# 
+# Executable:   /opt/gromacs/bin/gmx
+# Data prefix:  /opt/gromacs
+# Working dir:  /home/gromacs/Documents/charmm-gui/charmm-gui-1720872151 (copia)/gromacs
+# Command line:
+#   gmx order -s step7_1.tpr -f step7_1.trr -n TMCL2-snC.ndx -d z -od TMCL2_snC.xvg
+# gmx order is part of G R O M A C S:
+#
+# Gyas ROwers Mature At Cryogenic Speed
+#
+@    title "Deuterium order parameters"
+@    xaxis  label "Atom"
+@    yaxis  label "Scd"
+@TYPE xy
+           1       0.145031
+           2       0.240063
+           3       0.245811
+           4       0.244599
+           5       0.242297
+           6       0.240284
+           7       0.227437
+           8       0.222353
+           9       0.207041
+          10       0.193545
+          11       0.169212
+          12       0.140789

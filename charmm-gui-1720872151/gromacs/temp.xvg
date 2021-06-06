@@ -1,0 +1,17 @@
+# This file was created Wed May 26 13:58:55 2021
+# Created by:
+#                    :-) GROMACS - gmx clustsize, 2020.4 (-:
+# 
+# Executable:   /opt/gromacs/bin/gmx
+# Data prefix:  /opt/gromacs
+# Working dir:  /home/gromacs/Documents/charmm-gui/charmm-gui-1720872151 (copia)/gromacs
+# Command line:
+#   gmx clustsize -f Primeros5TMCL2.xtc -o csiize.xpm -n Primeros5TMCL2.ndx
+# gmx clustsize is part of G R O M A C S:
+#
+# GROup of MAchos and Cynical Suckers
+#
+@    title "Temperature of largest cluster"
+@    xaxis  label "Time (ps)"
+@    yaxis  label "T (K)"
+@TYPE xy

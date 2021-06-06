@@ -1,0 +1,29 @@
+# This file was created Wed May 26 23:47:22 2021
+# Created by:
+#                      :-) GROMACS - gmx order, 2020.4 (-:
+# 
+# Executable:   /opt/gromacs/bin/gmx
+# Data prefix:  /opt/gromacs
+# Working dir:  /home/gromacs/Documents/charmm-gui/charmm-gui-1720872151 (copia)/gromacs
+# Command line:
+#   gmx order -s step7_1.tpr -f step7_1.trr -n TMCL2-snD.ndx -d z -od TMCL2_snD.xvg
+# gmx order is part of G R O M A C S:
+#
+# GROningen MAchine for Chemical Simulation
+#
+@    title "Order tensor diagonal elements"
+@    xaxis  label "Atom"
+@    yaxis  label "S"
+@TYPE xy
+           1      -0.266687       -0.20394       0.470627
+           2      -0.226066      -0.188245        0.41431
+           3      -0.251947      -0.207881       0.459828
+           4      -0.249363      -0.214574       0.463938
+           5      -0.252783      -0.209522       0.462305
+           6      -0.245711      -0.204304       0.450015
+           7      -0.241825      -0.205487       0.447312
+           8      -0.217549      -0.199636       0.417185
+           9      -0.202545      -0.179568       0.382113
+          10      -0.183069      -0.163151        0.34622
+          11      -0.153193       -0.15184       0.305033
+          12       -0.11623      -0.102174       0.218404
